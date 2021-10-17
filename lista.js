@@ -1,3 +1,5 @@
+//__ ** Codificação de um sistema de contagem e classificação **__//
+
 // Saber o número total de alunos (√)
 // Percorrer de 0 até o número total de alunos (√)
 // * Se o número for 0, escrever "ZERO" na tela (√)
