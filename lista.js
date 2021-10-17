@@ -22,7 +22,7 @@ for( let i = 0; i < listar; i++){
     }
 };
 
-// Para escrever uma palavra ao contrario use 'texto'.split('').reverse().join('')
+// Para escrever uma palavra ao contrario usei: 'texto'.split('').reverse().join('')
 let fruta = "BANANA";
 
 console.log(fruta + " " + 'escrito ao contrario fica assim'+ ": " + 'BANANA'.split('').reverse().join(''));
